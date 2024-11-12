@@ -1,0 +1,76 @@
+.container1{
+  width:auto;
+  height: 100vh;
+  display: flex;
+align-items: center;
+justify-content: center;
+background-image: url(https://img.freepik.com/premium-photo/dark-background-sky-monochrome-outdoors_53876-331969.jpg?w=740);
+background-repeat:no-repeat;
+background-size:cover
+}
+.login_wrapper{
+width: 40%;
+border-radius: 15%;
+}
+.login_header{
+  text-align: center;
+  color: white;
+  font-style: oblique;
+}
+.button{
+  text-align: center;
+}
+.data{
+  color:white;
+  font-style: oblique;
+  font-weight: bold;
+}
+.input{
+  font-style: oblique;
+}
+.data-2{
+width: auto;
+opacity: 90%;
+}
+.link{
+color: white;
+}
+.intro{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  Width: auto;
+  height: 100vh;
+  background-image: url(https://img.freepik.com/free-photo/blue-smooth-wall-textured-background_53876-106133.jpg?w=740&t=st=1723472883~exp=1723473483~hmac=e37563a2c1d531a3b196ae21a66f4e12e2c8a1fcb3639a27be8d889a969aa4b4);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: cornsilk;
+  font-style: oblique;
+}
+.buy{
+  width: 30%;
+  height: 10%;
+  color: aqua;
+}
+.sell{
+  width: 30%;
+  height: 10%;
+  padding: 10px;
+  background-color: rgb(199, 169, 85);
+}
+.sellProduct{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-image: url(https://t3.ftcdn.net/jpg/02/90/89/76/240_F_290897614_7RdAsk2GmumcGWZ2qklmV74hKlNmznSx.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 20vh;
+}
+.cart{
+   margin-left: 70%;
+}
